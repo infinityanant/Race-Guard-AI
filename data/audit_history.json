@@ -1,0 +1,147 @@
+[
+  {
+    "timestamp": "2026-05-01T02:37:12.735388",
+    "score": 70,
+    "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T02:38:26.063456",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T02:41:08.820315",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T02:45:55.761915",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T02:49:55.176957",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T02:54:26.756450",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T03:09:47.850958",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T03:11:49.259927",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T04:03:03.470860",
+    "score": 65,
+    "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T04:05:56.638190",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T04:08:02.736626",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T04:09:38.082794",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T04:24:54.088262",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T04:25:21.667067",
+    "score": 65,
+    "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T04:25:36.927682",
+    "score": 65,
+    "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T04:26:13.605047",
+    "score": 65,
+    "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T04:26:41.087155",
+    "score": 65,
+    "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T04:33:45.619431",
+    "score": 0,
+    "findingCount": 5
+  },
+  {
+    "timestamp": "2026-05-01T04:37:26.613814",
+    "score": 0,
+    "findingCount": 5
+  },
+  {
+    "timestamp": "2026-05-01T05:54:08.106108",
+    "score": 65,
+    "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T07:00:46.631624",
+    "score": 0,
+    "findingCount": 5
+  },
+  {
+    "timestamp": "2026-05-01T07:48:46.889243",
+    "score": 0,
+    "findingCount": 5
+  },
+  {
+    "timestamp": "2026-05-01T07:54:45.953513",
+    "score": 0,
+    "findingCount": 5
+  },
+  {
+    "timestamp": "2026-05-01T08:55:08.372773",
+    "score": 0,
+    "findingCount": 5
+  },
+  {
+    "timestamp": "2026-05-01T09:17:09.917579",
+    "score": 0,
+    "findingCount": 4
+  },
+  {
+    "timestamp": "2026-05-01T09:23:35.997783",
+    "score": 70,
+    "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T09:24:24.462104",
+    "score": 35,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T09:58:36.133592",
+    "score": 0,
+    "findingCount": 5
+  },
+  {
+    "timestamp": "2026-05-01T09:59:41.675708",
+    "score": 65,
+    "findingCount": 1
+  }
+]
