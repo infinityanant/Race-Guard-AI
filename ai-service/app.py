@@ -4,7 +4,7 @@ import joblib
 import numpy as np
 import json
 import time
-
+import os
 from scanner import scan_for_vulnerabilities
 from pipeline import predict_risk, run_ai_analysis_concurrent, apply_fix, verify_fix, generate_report
 
@@ -178,7 +178,7 @@ def audit():
                     headers={'Cache-Control': 'no-cache', 'Connection': 'keep-alive', 'X-Accel-Buffering': 'no'})
 
 
-import os
+
 
 if __name__ == '__main__':
     port = int(os.environ.get("PORT", 5000))
