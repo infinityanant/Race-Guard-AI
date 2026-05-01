@@ -143,5 +143,15 @@
     "timestamp": "2026-05-01T09:59:41.675708",
     "score": 65,
     "findingCount": 1
+  },
+  {
+    "timestamp": "2026-05-01T10:22:04.143577",
+    "score": 40,
+    "findingCount": 2
+  },
+  {
+    "timestamp": "2026-05-01T10:50:53.396296",
+    "score": 5,
+    "findingCount": 3
   }
 ]
